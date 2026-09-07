@@ -2,19 +2,17 @@
 
 ### 💻 Frontend Developer | 🤖 Agentic AI Enthusiast
 
-I'm a developer passionate about building modern web applications and exploring the world of Agentic AI.
+I’m passionate about building modern web applications and exploring the world of **Agentic AI**.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
 ### 🌐 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="HTML, CSS, JavaScript, React, Tailwind CSS" />
 </p>
-
-**HTML • CSS • JavaScript • React • Tailwind CSS**
 
 ### 🤖 Agentic AI
 
@@ -22,47 +20,56 @@ I'm a developer passionate about building modern web applications and exploring 
   <img src="https://skillicons.dev/icons?i=python" alt="Python" />
 </p>
 
-**Python • OpenAI Agents SDK • OpenClaw**
+<p>
+  <strong>Python</strong> • <strong>OpenAI Agents SDK</strong> • <strong>OpenClaw</strong>
+</p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Project
 
 ### 📋 TaskFlow
 
-A modern Todo List application built with **React** and **Tailwind CSS**.
+A modern and responsive **Todo List application** built with React and Tailwind CSS.
 
-🔗 Explore my repositories to see more of my projects.
+**Tech:** React • JavaScript • Tailwind CSS
 
 ---
 
 ## 📚 Currently Learning
 
-* 🔹 MCP (Model Context Protocol)
+🧠 **MCP — Model Context Protocol**
+
+I'm currently exploring MCP and learning how it connects AI applications with external tools and data.
 
 ---
 
-## 🎯 What I'm Working Towards
+## 🎯 My Goals
 
-* 🚀 Building real-world frontend applications
-* 🤖 Developing AI-powered applications
-* 🧠 Improving my Agentic AI engineering skills
-* 📈 Continuously learning and improving
+* 🚀 Build real-world frontend applications
+* 🤖 Build AI-powered applications
+* 🧠 Become a skilled Agentic AI Engineer
+* 💡 Turn ideas into useful projects
+* 📈 Keep learning and improving
 
 ---
 
-## 📊 GitHub
+## 🧰 Tools I Use
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Areeb-Ali-Mughal&show_icons=true&hide_border=true&rank_icon=github" alt="Areeb's GitHub Stats" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 📂 Explore My Work
+
+Check out my repositories to see what I'm building and learning.
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Areeb-Ali-Mughal&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/Areeb-Ali-Mughal?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
+  </a>
 </p>
 
 ---
@@ -77,4 +84,6 @@ A modern Todo List application built with **React** and **Tailwind CSS**.
 
 ---
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
+
+*Always learning. Always building. Always improving.*
