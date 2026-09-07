@@ -30,9 +30,15 @@ I’m passionate about building modern web applications and exploring the world 
 
 ### 📋 TaskFlow
 
-A modern and responsive **Todo List application** built with React and Tailwind CSS.
+A modern and responsive Todo List application built with **React** and **Tailwind CSS**.
 
-**Tech:** React • JavaScript • Tailwind CSS
+**Tech Stack:** React • JavaScript • Tailwind CSS
+
+<p>
+  <a href="https://github.com/Areeb-Ali-Mughal/TaskFlow">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View TaskFlow Project" />
+  </a>
+</p>
 
 ---
 
