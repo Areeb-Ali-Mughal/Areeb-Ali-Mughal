@@ -30,15 +30,17 @@ I’m passionate about building modern web applications and exploring the world 
 
 ### 📋 TaskFlow
 
-A modern and responsive Todo List application built with **React** and **Tailwind CSS**.
+A clean and responsive **Todo List application** built while practicing React and modern frontend development.
 
-**Tech Stack:** React • JavaScript • Tailwind CSS
+**Built with**
 
-<p>
-  <a href="https://github.com/Areeb-Ali-Mughal/TaskFlow">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View TaskFlow Project" />
-  </a>
-</p>
+`React` · `JavaScript` · `Tailwind CSS`
+
+<div align="center">
+
+[![View TaskFlow](https://img.shields.io/badge/VIEW_TASKFLOW-00D9FF?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/Areeb-Ali-Mughal/TaskFlow)
+
+</div>
 
 ---
 
@@ -47,6 +49,16 @@ A modern and responsive Todo List application built with **React** and **Tailwin
 🧠 **MCP — Model Context Protocol**
 
 I'm currently exploring MCP and learning how it connects AI applications with external tools and data.
+
+```text
+        AI Application
+              │
+              ▼
+             MCP
+        ┌─────┼─────┐
+        ▼     ▼     ▼
+      Tools  Data  Services
+```
 
 ---
 
