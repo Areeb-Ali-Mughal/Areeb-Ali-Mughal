@@ -23,7 +23,7 @@ I’m passionate about building modern web applications and exploring the world 
   <a href="https://openai.github.io/openai-agents-python/">
     <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-0d1117?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Agents SDK" />
   </a>
-  <a href="https://github.com/openclaw/openclaw">
+  <a href="https://openclaw.ai">
     <img src="https://img.shields.io/badge/OpenClaw-000000?style=for-the-badge&logo=github&logoColor=white" alt="OpenClaw" />
   </a>
 </p>
