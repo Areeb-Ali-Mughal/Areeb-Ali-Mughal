@@ -26,7 +26,7 @@ I’m passionate about building modern web applications and exploring the world 
   </a>
 
   <a href="https://github.com/openclaw/openclaw">
-    <img src="https://img.shields.io/badge/OpenClaw-0d1117?style=for-the-badge&logoColor=white" alt="OpenClaw" />
+    <img src="https://raw.githubusercontent.com/openclaw/openclaw/main/assets/icon.png" width="48" alt="OpenClaw" />
   </a>
 </p>
 
