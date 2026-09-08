@@ -17,16 +17,14 @@ I’m passionate about building modern web applications and exploring the world 
 ### 🤖 Agentic AI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-</p>
-
-<p>
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  </a>
   <a href="https://openai.github.io/openai-agents-python/">
     <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-0d1117?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Agents SDK" />
   </a>
-
   <a href="https://github.com/openclaw/openclaw">
-    <img src="https://raw.githubusercontent.com/openclaw/openclaw/main/assets/icon.png" width="48" alt="OpenClaw" />
+    <img src="https://img.shields.io/badge/OpenClaw-000000?style=for-the-badge&logo=github&logoColor=white" alt="OpenClaw" />
   </a>
 </p>
 
